@@ -1,0 +1,38 @@
+.blue {
+    color:blue;
+    font-size:50px;
+}
+
+.grey {
+    color:grey;
+}
+
+.green {
+    color:green; 
+    font-size:8px; 
+    font-style:italic"
+}
+
+.orange {
+    color:orange; 
+    text-align:right; 
+    font-weight:bold'
+}
+
+.pink {
+    color:pink; 
+    text-align:justify; 
+    font-family:tahoma;
+}
+
+.purple {
+    color:purple; 
+    text-decoration: underline;
+    font-family: Roboto, Helvetica, sans-serif;
+}
+
+.yellow {
+    background-color:yellow; 
+    font-weight:bold; 
+    font-family:"comic Sans MS", "Comic Sans", cursive;
+}
